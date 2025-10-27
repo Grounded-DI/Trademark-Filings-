@@ -12,7 +12,7 @@
 **Application Serial #: 99282092**
 **Application Date: July 14, 2025**
 
-Deterministic AI™ and Deterministic Intelligence™ are proprietary terms authored and defined by Grounded DI LLC. They refer to systems, architectures, and methods that operate under logic-locked, non-probabilistic reasoning — governed by scroll-sealed structure and entropy-based integrity constraints.
+Deterministic AI™, Determinisitic Artificial Intelligence™, and  Deterministic Intelligence™ are proprietary terms authored and defined by Grounded DI LLC. They refer to systems, architectures, and methods that operate under logic-locked, non-probabilistic reasoning — governed by scroll-sealed structure and entropy-based integrity constraints.
 
 These terms are not generic descriptors. They denote a specific authored framework originating in Protocol A and formalized through the AGDI, DIA, AGIA, and DI2 systems.
 
@@ -20,4 +20,32 @@ Any use of Deterministic AI™ or Deterministic Intelligence™ to describe syst
 
 © 2025 Grounded DI LLC (MSW) All rights reserved.
 
-#GroundedDI #DeterminisiticArtificialIntelligence #DeterministicAI #DeterministicIntelligence #DI2 #NotKernelAI 
+#GroundedDI #DeterminisiticArtificialIntelligence #DeterministicAI #DeterministicIntelligence #DI2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#NotKernelAI 
