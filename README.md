@@ -8,4 +8,4 @@ Any use of Deterministic AI™ or Deterministic Intelligence™ to describe syst
 
 © 2025 Mark S. Weinstein • Grounded DI LLC All rights reserved.
 
-#GroundedDI #DeterministicAI #DeterministicIntelligence #DI2
+#GroundedDI #DeterministicAI #DeterministicIntelligence #DI2 #NotKernelAI 
