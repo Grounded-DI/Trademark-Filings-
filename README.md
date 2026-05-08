@@ -1,5 +1,4 @@
-**📌 Grounded DI - Trademark Notice - 10/27/2025**
-
+**📌 Grounded DI LLC - Trademark Notice - 10/27/2025 (originally)** 
 
 **Deterministic Intelligence™**
 **Application Serial #: 99282092**
@@ -72,29 +71,5 @@ Any use of Deterministic AI™ or Deterministic Intelligence™ to describe syst
 
 
 
-@Gemini
-@Google
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#AI
-#Tech
-#TechNews
-#GroundedDI #DeterminisiticArtificialIntelligence #DeterministicAI #DeterministicIntelligence #DI2 
-#DIAGI 
-
-
+@GoogleAI 
