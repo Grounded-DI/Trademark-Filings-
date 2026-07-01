@@ -1,4 +1,4 @@
-**📌 Grounded DI LLC - Trademark Notice - 10/27/2025 (originally)** 
+# 📌 Grounded DI LLC - Trademark Notice - 10/27/2025 (originally)** 
 
 **Deterministic Intelligence™**
 **Application Serial #: 99282092**
