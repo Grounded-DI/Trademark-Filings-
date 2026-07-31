@@ -22,3 +22,5 @@ Any use of Deterministic AI™ or Deterministic Intelligence™ to describe syst
 © 2025 Grounded DI LLC (MSW) All rights reserved.
 
 #DeterministicAI2025 #DeterministicIntelligence2025 #DeterministicArtificialIntelligence2025
+
+Note: **Grounded DI's pending application for "Deterministic AI" mark identifies a broader cross-domain architecture and associated products**, while Focus Universal pending application (subsequently filed on June 26, 2026) appears to be offering a narrower document processing platform.
